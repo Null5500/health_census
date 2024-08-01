@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.png",
+        "imagesrc":"/home/project/health_census/thyroid.png",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"bloodpressure.jpg",
+        "imagesrc":"/home/project/health_census/bloodpressure.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
